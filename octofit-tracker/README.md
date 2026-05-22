@@ -10,7 +10,8 @@ octofit-tracker/
 │   ├── src/
 │   ├── package.json
 │   ├── vite.config.ts
-│   └── tsconfig.json
+│   ├── tsconfig.json
+│   └── index.html
 └── backend/           # Node.js + Express backend
     ├── src/
     ├── package.json
